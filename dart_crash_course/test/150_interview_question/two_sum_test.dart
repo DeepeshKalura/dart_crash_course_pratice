@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import '../bin/two_sum.dart';
+import '../../bin/150_interview_question/two_sum.dart';
 
 void main() {
   test(
